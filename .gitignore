@@ -1,6 +1,6 @@
 *.рус
 *~
-__pycache__
+__pycache__/
 myvenv
 .venv
 db.sqlite3
